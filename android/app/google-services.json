@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "476299870459",
+    "project_id": "meongbti-1e3c0",
+    "storage_bucket": "meongbti-1e3c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476299870459:android:b9ac238f598b1a3f36f05e",
+        "android_client_info": {
+          "package_name": "com.soojin.meongbti"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoilX-sd-azdpvRi0D-ezgdak62c26PE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
